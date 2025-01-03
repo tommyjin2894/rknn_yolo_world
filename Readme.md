@@ -32,11 +32,11 @@ python yolo_world.py --target rk3588
 ```text
    class        score      xmin, ymin, xmax, ymax
 --------------------------------------------------
-   person       0.948     [ 477,  232,  559,  521]
-   person       0.932     [ 110,  237,  226,  535]
-   person       0.917     [ 211,  242,  283,  508]
-   person       0.595     [  80,  326,  125,  514]
-    bus         0.917     [  98,  135,  553,  436]
+   person       0.935     [ 473,  371,  545,  580]
+traffic light    0.843     [ 136,   36,  187,  202]
+traffic light    0.843     [ 218,    0,  318,  104]
+traffic light    0.614     [ 193,  108,  326,  239]
+traffic light    0.270     [ 143,  230,  183,  269]
 ```
 
 - result img custom text and custom img
